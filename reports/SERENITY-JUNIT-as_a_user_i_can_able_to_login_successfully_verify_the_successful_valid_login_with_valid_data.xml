@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="As a User I can able to login successfully" skipped="0" tests="1" time="20.49" timestamp="2019-04-17 06:55:55"><testcase name="Verify the successful valid Login with valid data"><failure message="Login text mismatch:  expected:&lt;[Log into Developer Hub]&gt; but was:&lt;[Expected condition failed: waiting for LoginPage.loginpageHeader to be displayed (tried for 5 second(s) with 100 milliseconds interval)&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'PC344544', ip: '10.219.34.127', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'&#10;Driver info: driver.version: unknown]&gt;" type="java.lang.AssertionError">Login text mismatch:  expected:&lt;[Log into Developer Hub]&gt; but was:&lt;[Expected condition failed: waiting for LoginPage.loginpageHeader to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'PC344544', ip: '10.219.34.127', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: unknown]&gt;</failure><system-err>Login text mismatch:  expected:&lt;[Log into Developer Hub]&gt; but was:&lt;[Expected condition failed: waiting for LoginPage.loginpageHeader to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'PC344544', ip: '10.219.34.127', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: unknown]&gt;&#13;
+com.fd.dp.steplib.LoginSteps.verifyLoginpageText(LoginSteps.java:31)&#13;
+com.fd.dp.stepdef.LoginStepDef.i_click_and_navigate_to_Page_from_homepage(LoginStepDef.java:22)&#13;
+✽.I click and navigate to "Log into Developer Hub" Page from homepage(src/test/resources/features/Login.feature:6)&#13;
+</system-err></testcase></testsuite>

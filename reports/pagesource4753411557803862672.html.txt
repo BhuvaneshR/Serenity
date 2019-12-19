@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#" class="js"><head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+
+  <title>FirstData Developer Portal | Log in</title>
+  <link type="text/css" rel="stylesheet" href="https://developerstg.firstdata.eu/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://developerstg.firstdata.eu/sites/default/files/css/css_hdR5zEfaIAQ5SX9HNvSxUpbtrQx6D256kgZk8-wSuNk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://developerstg.firstdata.eu/sites/default/files/css/css_lI50XhuQp9kqHony1w3qZXYIEfEqvCFYPsemUf2yaFA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://developerstg.firstdata.eu/sites/default/files/css/css_2FpDRouDtp6ymqKW2V3ICSrR4kMDh6lfYsD4XAoA8R0.css" media="all" />
+<style>#sliding-popup.sliding-popup-bottom,#sliding-popup.sliding-popup-bottom .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#00A9E0;}#sliding-popup.sliding-popup-bottom.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#fff !important;}.eu-cookie-withdraw-tab{border-color:#fff;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://developerstg.firstdata.eu/sites/default/files/css/css_PeIW5Z8XESaveqmnQ2wd7xvAc5lIu2XcUGbXxmp0hmM.css" media="all" />
+<style>.navbar-nav &gt; li &gt; span &gt; span.caret{border-bottom-color:;border-top-color:;color:;}.faq .collapsed{display:block !important;}body header.navbar{background-color:;}body header.navbar{border-color:;}body .navbar-inverse .navbar-toggle,body .navbar-inverse .navbar-collapse:focus,body .navbar-inverse .navbar-toggle:hover,body .navbar-inverse .navbar-toggle:focus,body .navbar-inverse .navbar-nav &gt; .open &gt; a,body .navbar-inverse .navbar-nav &gt; .open &gt; a:hover,body .navbar-inverse .navbar-nav &gt; .open &gt; a:focus,body .navbar-default .navbar-toggle:hover,body .navbar-default .navbar-toggle:active,body .navbar-default .navbar-toggle:focus,body .navbar-default .navbar-collapse,body .navbar-default .navbar-collapse:hover,body .navbar-default .navbar-collapse:focus,body .navbar-default .navbar-nav &gt; .open &gt; a,body .navbar-default .navbar-nav &gt; .open &gt; a:hover,body .navbar-default .navbar-nav &gt; .open &gt; a:focus,body header.navbar.navbar-nav &gt; .open &gt; a,body header.navbar.navbar-nav &gt; .open &gt; a:hover,body header.navbar.navbar-nav &gt; .open &gt; a:focus{border-color:;background-color:;}body .navbar-inverse .navbar-nav &gt; .open &gt; a:hover{color:;}body header.navbar .nav &gt; li &gt; a{color:;}body header.navbar .nav &gt; li &gt; a:hover{background-color:;}.navbar-inverse .navbar-collapse,.navbar-inverse .navbar-form,.navbar-inverse .navbar-toggle,.navbar-default .navbar-collapse,.navbar-default .navbar-form,.navbar-default .navbar-toggle,header.navbar.navbar-collapse,header.navbar.navbar-form,header.navbar.navbar-toggle{border-color:;}.navbar-inverse .navbar-toggle,.navbar-inverse .navbar-toggle:hover,.navbar-inverse .navbar-toggle:focus,.navbar-inverse .navbar-nav &gt; .open &gt; a,.navbar-inverse .navbar-nav &gt; .open &gt; a:hover,.navbar-inverse .navbar-nav &gt; .open &gt; a:focus,.navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:active,.navbar-default .navbar-toggle:focus,.navbar-default .navbar-nav &gt; .open &gt; a,.navbar-default .navbar-nav &gt; .open &gt; a:hover,.navbar-default .navbar-nav &gt; .open &gt; a:focus,header.navbar.navbar-nav &gt; .open &gt; a,header.navbar.navbar-nav &gt; .open &gt; a:hover,header.navbar.navbar-nav &gt; .open &gt; a:focus{background-color:;}body header.navbar .nav .active &gt; a,body .navbar .nav .active &gt; a:hover,.navbar.navbar-fixed-top #main-menu li a:hover{background-color:;}body header.navbar .nav &gt; li &gt; a:hover{color:;}body a{color:;}body a:hover{color:;}body .footer{background-color:;}body .footer .navbar ul.footer-links &gt; li &gt; a{color:;}body .footer .navbar ul.footer-links &gt; li &gt; a:hover{color:;}body .btn{background-color:;}body .btn{color:;}body .btn:hover,body .btn:focus,body .btn:active,body .open .dropdown-toggle.btn{background-color:;color:;}.navbar-nav &gt; li &gt; span{color:;}.navbar-nav &gt; li &gt; span:hover{color:;}.navbar-nav &gt; li.expanded span:hover,.navbar-nav &gt; li.expanded.active{background-color:;}.navbar-nav &gt; li &gt; span &gt; span.caret{border-bottom-color:;border-top-color:;color:;}.modal-body #user-register-form .form-type-password.col-md-4{width:100%;}body #push{height:100px;}body #resource_URL input,#method_content [data-role='method_url_container'],#method_content .url_container &gt; p &gt; span,[data-role='method_url_container'] span span span.template_param{font-family:Courier,'Courier New',monospace;}
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="//code.jquery.com/jquery-2.1.4.js"></script>
+<script>window.jQuery || document.write("&lt;script src='/profiles/apigee/modules/contrib/jquery_update/replace/jquery/2.1/jquery.js'&gt;\x3C/script&gt;")</script>
+<script>jQuery.migrateMute=false;jQuery.migrateTrace=true;</script>
+<script src="//code.jquery.com/jquery-migrate-1.4.1.js"></script>
+<script>window.jQuery &amp;&amp; window.jQuery.migrateWarnings || document.write("&lt;script src='/profiles/apigee/modules/contrib/jquery_update/replace/jquery-migrate/1/jquery-migrate.js'&gt;\x3C/script&gt;")</script>
+<script src="https://developerstg.firstdata.eu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://developerstg.firstdata.eu/misc/drupal.js?pq3wgp"></script>
+<script src="https://developerstg.firstdata.eu/sites/all/modules/custom/eu_cookie_compliance/js/jquery.cookie-1.4.1.min.js?v=1.4.1"></script>
+<script src="https://developerstg.firstdata.eu/profiles/apigee/themes/apigee_responsive/js/bootstrap.min.js?pq3wgp"></script>
+<script src="https://developerstg.firstdata.eu/sites/all/modules/custom/scroll_to_destination_anchors/scroll_to_destination_anchors.js?pq3wgp"></script>
+<script src="https://developerstg.firstdata.eu/sites/all/modules/custom/smartdocs_custom/smartdocs_custom.js?pq3wgp"></script>
+<script src="https://developerstg.firstdata.eu/sites/all/modules/custom/environment_indicator/tinycon.min.js?pq3wgp"></script>
+<script src="https://developerstg.firstdata.eu/sites/all/modules/custom/environment_indicator/environment_indicator.js?pq3wgp"></script>
+<script src="https://developerstg.firstdata.eu/sites/all/modules/custom/environment_indicator/color.js?pq3wgp"></script>
+<script src="https://developerstg.firstdata.eu/sites/default/files/jstimer/timer.js?pq3wgp"></script>
+<script src="https://developerstg.firstdata.eu/sites/all/modules/custom/password_toggle/password_toggle.js?pq3wgp"></script>
+<script src="https://developerstg.firstdata.eu/profiles/apigee/themes/apigee_responsive/js/global.js?pq3wgp"></script>
+<script src="https://developerstg.firstdata.eu/sites/all/themes/apigee_fd/js/apigee_fd.js?pq3wgp"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"apigee_fd","theme_token":"qaYwCjwEVmk-RkfXKIkyEB_BwKjtjRnRgBFeNA9l5Ug","js":{"0":1,"1":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/custom\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"\/\/code.jquery.com\/jquery-2.1.4.js":1,"2":1,"3":1,"\/\/code.jquery.com\/jquery-migrate-1.4.1.js":1,"4":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/eu_cookie_compliance\/js\/jquery.cookie-1.4.1.min.js":1,"profiles\/apigee\/themes\/apigee_responsive\/js\/bootstrap.min.js":1,"sites\/all\/modules\/custom\/scroll_to_destination_anchors\/scroll_to_destination_anchors.js":1,"sites\/all\/modules\/custom\/smartdocs_custom\/smartdocs_custom.js":1,"sites\/all\/modules\/custom\/environment_indicator\/tinycon.min.js":1,"sites\/all\/modules\/custom\/environment_indicator\/environment_indicator.js":1,"sites\/all\/modules\/custom\/environment_indicator\/color.js":1,"public:\/\/jstimer\/timer.js":1,"sites\/all\/modules\/custom\/password_toggle\/password_toggle.js":1,"profiles\/apigee\/themes\/apigee_responsive\/js\/global.js":1,"sites\/all\/themes\/apigee_fd\/js\/apigee_fd.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"profiles\/apigee\/themes\/apigee_responsive\/css\/bootstrap.min.css":1,"sites\/all\/modules\/custom\/simplenews\/simplenews.css":1,"profiles\/apigee\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/apigee\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/apigee\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"profiles\/apigee\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/smartdocs_custom\/smartdocs_custom.css":1,"profiles\/apigee\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/custom\/environment_indicator\/environment_indicator.css":1,"sites\/all\/modules\/custom\/style_settings\/css\/style_settings.css":1,"profiles\/apigee\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/custom\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/custom\/ctools\/css\/ctools.css":1,"profiles\/apigee\/modules\/custom\/devconnect\/smartdocs\/css\/smartdocs.css":1,"sites\/all\/modules\/custom\/password_toggle\/password_toggle.css":1,"sites\/all\/modules\/custom\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"0":1,"profiles\/apigee\/themes\/apigee_responsive\/css\/style.css":1,"sites\/all\/themes\/apigee_fd\/css\/apigee_fd.css":1,"sites\/default\/files\/style_settings\/6dc66bc3f8b0a236c9f377a8ad8ed93e.customizev23.css":1,"1":1}},"environment_indicator":{"addFavicon":1,"faviconLabel":"s","faviconColor":"#3c8640","faviconTextColor":"#ffffff"},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":0,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch3\u003EWe use cookies on this site to enhance your user experience\u003C\/h3\u003E\n\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOK, I agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button agree-button eu-cookie-compliance-default-button\u0022\u003ENo, give me more info\u003C\/button\u003E\n                \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOK, I agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button agree-button eu-cookie-compliance-default-button\u0022\u003ENo, give me more info\u003C\/button\u003E\n                \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003E\u0026lt;h2\u0026gt;Thank you for accepting cookies\u0026lt;\/h2\u0026gt;\u0026lt;p\u0026gt;You can now hide this message or find out more about cookies.\u0026lt;\/p\u0026gt;\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/cookies","popup_link_new_window":1,"popup_position":null,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"100","cookie_session":false,"disagree_do_not_show_popup":0,"method":"default","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003E\u0026lt;h2\u0026gt;We use cookies on this site to enhance your user experience\u0026lt;\/h2\u0026gt;\u0026lt;p\u0026gt;You have given your consent for us to set cookies.\u0026lt;\/p\u0026gt;\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false},"baseUrl":"https:\/\/developerstg.firstdata.eu","urlIsAjaxTrusted":{"\/search\/node":true,"\/user\/login":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"top","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<link type="image/x-icon" rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA0klEQVQ4T2NkoBAwsjkn/afEDOoY8HPPXKyOYHdJZsAmBxKHAbALSDUApBlmCIoByCbDbIAZjiyHLEZdA5ADAmYjyDbbdkesYXRqrxIDzjCAGWDmfA9vLBP0AtUMKPcqZfDR9wK75tuvbwx9Oycw7LyyG9UL2GIB5AIjeUOGGt8qhq8/vzDEzk5E8RLBlAjzArILfv/9zbD0+HKGuYfnQ1yAL5TQwwDmmodvHzEULi9mYCSUkWzaHMAWLE6dz6AgooAZBoQMAMkbF5ljdeXZvpOMACuyfL5qkFj0AAAAAElFTkSuQmCC" /></head>
+<body class="html not-front not-logged-in no-sidebars page-user page-user-login logo_standard eu-cookie-compliance-processed" style="margin-bottom: 32px;">
+<div id="skip-link">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+<div id="main-wrapper">
+  
+  <div class="master-container">
+
+    <div class="page-content">
+      <div class="fluid-container">
+        <div class="row">
+          <div class="col-sm-4 login-img hidden-xs hidden-sm">
+            <div style="position: fixed; width: 480px; height: 100%">
+              <img class="img-responsive" src="/sites/all/themes/apigee_fd/images/login-picture.png" style="height: 100%; width: 480px" alt="Home" />
+            </div>
+                        <div class="img-login">
+              <a href="/" title="Home">
+                <img class="img-responsive" src="/sites/default/files/2_3.png" alt="Home" />
+              </a>
+                            <div class="clearfix login-white-text">
+                  Home of all First Data open APIs. Browse our catalogue and integrate with our APIs to enrich your clients digital experiences.
+              </div>
+            </div>
+          </div>
+          <div class="sm-center">
+            <div class="col-auto">
+              <div class="w-360">
+                <h2 class="mt-8 mb-0">
+                  Log into Developer Hub
+                </h2>
+                    <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <form action="/user/login" method="post" id="user-login" accept-charset="UTF-8"><div>
+	<div class="form-item form-item-name form-type-textfield form-group"> <label class="control-label" for="edit-name">E-mail <span class="form-required" title="This field is required.">*</span></label>
+<input autocomplete="off" class="form-control form-text required" title="" data-toggle="tooltip" type="text" id="edit-name" name="name" value="" size="60" maxlength="60" data-original-title="Enter your e-mail address or username." /></div><div class="form-item form-item-pass form-type-password form-group"> <label class="control-label" for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+<input autocomplete="off" class="form-control form-text required" title="" data-toggle="tooltip" type="password" id="edit-pass" name="pass" size="60" maxlength="128" data-original-title="Enter the password that accompanies your e-mail." /><label class="password-toggle checkbox"><input type="checkbox" /><span class="checkmark-password"></span></label></div><div class="form-actions form-wrapper form-group" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="Log in" class="btn btn-default form-submit">Log in</button>
+</div>		<input type="hidden" name="form_build_id" value="form-b937vJiVa2Co4aqbCSujBA4isTCI5ZSGRgGtovO1xYk" />
+<input type="hidden" name="form_id" value="user_login" />
+
+<div class="link-style align-left mb-4 mt-2 clearfix">
+	<a href="/user/password">Forgot password?</a></div>
+
+</div></form>
+</section> <!-- /.block -->
+  </div>
+              </div>
+            </div>
+          </div>
+          <div class="float-right mr-7">
+            <div class="mt-32 clearfix">Don't have an account?</div>
+            <div class="link-style mb-4 clearfix">
+                <a href="/user/register">Register here</a>            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <footer class="footer">
+          <div class="region region-footer">
+    <div class="block block-menu black-footer">
+    <div class="container clearfix align-center flex-center">
+        <ul class="menu nav"><li class="first leaf"><a href="/legal">Terms and conditions</a></li>
+<li class="leaf"><a href="/cookies">Cookies policy</a></li>
+<li class="leaf"><a href="/privacy-policy">Privacy policy</a></li>
+<li class="last leaf"><a href="/support">Support</a></li>
+</ul>    </div>
+</div><section id="block-block-21" class="block block-block clearfix">
+
+      
+  <div class="black-footer ">
+<hr />
+<div class="footer-bottom pl-3 pr-5 align-left">
+<div class="container ">
+<h7 class="bold white-text">Copyright© 2018 First Data. All rights reserved.</h7><p></p>
+<div class="align-left white-text mt-2">
+<h8>
+<p>First Data is a trading name of First Data Europe Limited, a private limited company incorporated in England (company number 02012925) with a registered address at Janus House, Endeavour Drive, Basildon, Essex, SS14 3WF. First Data Europe Limited is authorised and regulated by the UK Financial Conduct Authority (FCA register No. 582703; CCA No. 739230). All trademarks, service marks, and trade names referenced in this material are the property of their respective owners.</p>
+<p>
+</p></h8></div>
+</div>
+</div>
+</div>
+
+</section> <!-- /.block -->
+  </div>
+    </footer>
+  </div>
+</div>  <div class="region region-page-bottom">
+    <div class="environment-indicator-stg position-bottom fixed-yes environment_indicator_bottom-processed" id="environment-indicator" style="background-color: #3c8640; color: #ffffff"><div class="gradient-bar"><div class="environment-indicator-name" title="You are seeing the stg environment">stg</div><div class="item-list"><ul class="environment-switcher-container"><li class="environment-switcher"><a href="http://developerdev.firstdata.eu/user/login">Open in <em class="placeholder">dev</em></a></li>
+<li class="environment-switcher"><a href="http://developerstg.firstdata.eu/user/login">Open in <em class="placeholder">stg</em></a></li>
+</ul></div></div>
+</div>  </div>
+<script>function euCookieComplianceLoadScripts() {}</script>
+<script>var eu_cookie_compliance_cookie_name = "";</script>
+<script src="https://developerstg.firstdata.eu/sites/all/themes/bootstrap/js/bootstrap.js?pq3wgp"></script>
+<script src="https://developerstg.firstdata.eu/sites/all/modules/custom/eu_cookie_compliance/js/eu_cookie_compliance.js?pq3wgp"></script>
+
+<div id="sliding-popup" class="sliding-popup-bottom" style="height: auto; width: 100%; bottom: 0px;"><div>
+  <div class="popup-content info">
+    <div id="popup-text">
+      <h3>We use cookies on this site to enhance your user experience</h3>
+<p>By clicking any link on this page you are giving your consent for us to set cookies.</p>
+    </div>
+    <div id="popup-buttons">
+      <button type="button" class="agree-button eu-cookie-compliance-default-button">OK, I agree</button>
+              <button type="button" class="find-more-button eu-cookie-compliance-more-button agree-button eu-cookie-compliance-default-button find-more-button-processed">No, give me more info</button>
+                </div>
+  </div>
+</div></div></body></html>
